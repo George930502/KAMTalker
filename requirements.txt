@@ -1,0 +1,10 @@
+pandas
+matplotlib
+imageio[ffmpeg]
+torch
+torchvision
+torchaudio
+scikit-learn
+opencv-python
+scikit-image
+face-alignment
