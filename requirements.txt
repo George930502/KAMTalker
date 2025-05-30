@@ -8,3 +8,5 @@ scikit-learn
 opencv-python
 scikit-image
 face-alignment
+transformers
+git+https://github.com/ildoonet/pytorch-gradual-warmup-lr.git
